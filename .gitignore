@@ -16,3 +16,5 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+images/
+no_me_trackees.php.blade
