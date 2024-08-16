@@ -6,3 +6,4 @@ public class ConsultaDatos ()
 
   public Consulta Datos()
 }
+Modificando prueba2
